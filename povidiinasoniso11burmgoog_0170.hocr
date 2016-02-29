@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./povidiinasoniso11burmgoog_0170.png"; bbox 0 0 2624 4972; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 111 1882 995 2038">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 111 1882 995 2038">
+     <span class='ocr_line' id='line_1_1' title="bbox 111 1882 995 2038; baseline 0.01 -66"><span class='ocrx_word' id='word_1_1' title='bbox 111 2024 116 2038; x_wconf 95' lang='lat'><strong>.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 203 1884 261 1975; x_wconf 89' lang='grc' dir='ltr'><strong>Ρ.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 295 1882 576 1978; x_wconf 92' lang='lat' dir='ltr'>OVIDII</span> <span class='ocrx_word' id='word_1_4' title='bbox 626 1886 995 1982; x_wconf 85' lang='lat' dir='ltr'><strong>NASONIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 275 2194 1113 2328">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 275 2194 1113 2328">
+     <span class='ocr_line' id='line_1_2' title="bbox 275 2194 1113 2328; baseline 0.023 -19"><span class='ocrx_word' id='word_1_5' title='bbox 275 2194 921 2314; x_wconf 85' lang='lat' dir='ltr'><strong>FASTORUM</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 992 2235 999 2249; x_wconf 88' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1110 2322 1113 2328; x_wconf 85' lang='grc'><strong>,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 348 2526 839 2597">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 348 2526 839 2597">
+     <span class='ocr_line' id='line_1_3' title="bbox 348 2526 839 2597; baseline -0.004 -1"><span class='ocrx_word' id='word_1_8' title='bbox 348 2527 488 2597; x_wconf 83' lang='lat' dir='ltr'><strong>LIBRI</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 510 2527 608 2593; x_wconf 85' lang='lat' dir='ltr'><strong>SEX</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 630 2526 839 2594; x_wconf 86' lang='lat' dir='ltr'><strong>PRIORES</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 257 2782 946 2864">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 257 2782 946 2864">
+     <span class='ocr_line' id='line_1_4' title="bbox 257 2782 946 2864; baseline -0.004 -4"><span class='ocrx_word' id='word_1_11' title='bbox 257 2783 660 2864; x_wconf 82' lang='lat' dir='ltr'><strong>GERMANICO</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 706 2782 946 2861; x_wconf 82' lang='lat' dir='ltr'><strong>CAESARI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 496 3029 711 3095">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 496 3029 711 3095">
+     <span class='ocr_line' id='line_1_5' title="bbox 496 3029 711 3095; baseline -0.009 -3"><span class='ocrx_word' id='word_1_13' title='bbox 496 3029 711 3095; x_wconf 78' lang='lat' dir='ltr'>1NscR1PT1.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1316 4972">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1316 4972">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1316 4972; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1316 4972; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
